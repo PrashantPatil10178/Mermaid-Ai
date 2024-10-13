@@ -1,0 +1,24 @@
+.chart-generator-container {
+  max-width: 400px;
+  margin: auto;
+  padding: 20px;
+  border: 1px solid #eaeaea;
+  border-radius: 8px;
+  background: #f9f9f9;
+  box-shadow: 0 2px 8px rgba(0, 0, 0, 0.1);
+}
+
+.input-field,
+.radio-group,
+.generate-button {
+  width: 100%;
+  margin-bottom: 16px;
+}
+
+.mermaid-code-container {
+  margin-top: 20px;
+  padding: 10px;
+  border: 1px dashed #d9d9d9;
+  border-radius: 4px;
+  background: #fafafa;
+}
